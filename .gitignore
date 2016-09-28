@@ -1,0 +1,10 @@
+/bin/
+/target/
+/bin/
+/target/
+*.txt
+*.project
+*.json
+*.csv
+/bin/
+/target/
